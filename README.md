@@ -11,7 +11,7 @@ Projeto de Extensão II do curso de Sistema de Informação da Uninassau (4º Pe
 ## 🎯 Objetivo & Planejamento
 - **Público-alvo:** Crianças e adolescentes.
 - **Formato:** Palestra explicativa (~1 hora de duração) acompanhada de demonstração no site.
-- **Locais de Apresentação sugeridos:** Colégio Dom Olinda, Colégio Patricia Costa (CPC), Escola Pintor Emanuel Bandeira ou SESC.
+- **Local de Apresentação:** SESC de Casa Amarela
 - **Infraestrutura Necessária:** Sala/Auditório, projetor e acesso à Internet.
 
 ## 👥 Divisão da Equipe
