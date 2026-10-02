@@ -22,4 +22,3 @@ Projeto de Extensão II do curso de Sistema de Informação da Uninassau (4º Pe
 ## 🛠️ Tecnologias Utilizadas
 - **Front-end:** HTML5, CSS3, JavaScript, Angular.
 - **Back-end:** Java, Spring Framework.
--
